@@ -32,3 +32,5 @@ Be sure that you've registered on the [Hacktoberfest 2018](https://hacktoberfest
 
 If you aren't sure what to do at any point, ask! There are no stupid questions.
 
+#GIT TRAINING WITH MICHI
+This is a test.
